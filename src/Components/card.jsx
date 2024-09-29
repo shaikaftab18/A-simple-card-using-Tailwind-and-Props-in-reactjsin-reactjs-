@@ -5,7 +5,7 @@ import CardActions from '@mui/material/CardActions';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 
-function CustomCard({channel,btntext="visitme"}) {
+function CustomCard({channel,btntext="visitme,man"}) {
   return (
     <div style={{ margin: "25%" }}>
       <Card sx={{ maxWidth: 600 }}>
